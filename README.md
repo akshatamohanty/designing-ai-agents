@@ -1,3 +1,5 @@
+🚜👷🚧🏗️ Note: This repo is under active development. 
+
 # Designing AI Agents
 
 This repository is a collection of projects, papers, design patterns, tools and examples useful for building AI agents. 
